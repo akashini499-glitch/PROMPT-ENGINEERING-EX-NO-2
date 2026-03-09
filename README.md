@@ -19,5 +19,5 @@ Speed
 User experience
 
 ## OUTPUT
-
+EX 02 prompt.pdf
 ## RESULT
